@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.searchbar {
+  width: 50%;
+  background: transparent;
+  margin-top: 10px;
+}
+.searchbar input:focus {
+  outline: none;
+}
+
+.searchbar input {
+  background: #ffffff59;
+  border: 1px solid #0000003b;
+  border-radius: 10px;
+}
